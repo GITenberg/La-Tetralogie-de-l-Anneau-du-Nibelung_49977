@@ -1,0 +1,39 @@
+_repo: La-Tetralogie-de-l-Anneau-du-Nibelung_49977
+contributor:
+  commentator:
+    agent_name: Barthélemy, Edmond
+    gutenberg_agent_id: '45638'
+    url: http://www.gutenberg.org/2009/agents/45638
+  translator:
+    agent_name: Brinn-Gaubast, Louis-Pilate de
+    gutenberg_agent_id: '45639'
+    url: http://www.gutenberg.org/2009/agents/45639
+creator:
+  author:
+    agent_name: Wagner, Richard
+    aliases:
+    - Wagner, R. (Richard)
+    - Wagner, Wilhelm Richard
+    - Drach, Wilhelm
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '1325'
+    url: http://www.gutenberg.org/2009/agents/1325
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Richard_Wagner
+    - http://en.wikipedia.org/wiki/Richard_Wagner
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Théâtre
+- FR Musique
+gutenberg_issued: '2015-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49977'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: La Tétralogie de l'Anneau du Nibelung
+url: http://www.gutenberg.org/ebooks/49977
